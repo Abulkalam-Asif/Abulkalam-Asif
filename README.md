@@ -11,7 +11,7 @@
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=flat-square&logo=tailwindcss&labelColor=white" alt="website"/>
   </a>
-  <a href="https://tailwindcss.com/">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&labelColor=white" alt="website"/>
   </a>
   <br>
