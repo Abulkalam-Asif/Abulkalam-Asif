@@ -7,4 +7,16 @@
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/NextJS-white?style=flat-square&logo=next.js&labelColor=black" alt="website"/>
   </a>
+  <a href="https://nodejs.org/en">
+    <img src="https://img.shields.io/badge/NodeJS-5fa04e?style=flat-square&logo=node.js&labelColor=white" alt="website"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/ExpressJS-white?style=flat-square&logo=express&labelColor=black" alt="website"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&labelColor=white" alt="website"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&labelColor=white" alt="website"/>
+  </a>
 </div>
