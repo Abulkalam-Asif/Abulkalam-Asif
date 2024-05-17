@@ -12,8 +12,10 @@
     <img src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=flat-square&logo=tailwindcss&labelColor=white" alt="website"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&labelColor=white" alt="website"/>
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=f7df1e&labelColor=white" alt="website"/>
   </a>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&labelColor=white" alt="website"/>
+  <img src="https://img.shields.io/badge/CSS3-214ce5?style=flat-square&logo=css3&logoColor=214ce5&labelColor=white" alt="website"/>
   <br>
   <h4>Backend</h4>
   <a href="https://nodejs.org/en">
