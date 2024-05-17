@@ -38,8 +38,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&labelColor=white" alt="website"/>
   </a>
 </div>
-<br>
-<hr>
+<h2></h2>
 <div align="center">
   <h3>Social Media</h3>
   <a href="https://stackoverflow.com/users/13206887/abulkalam-asif">
