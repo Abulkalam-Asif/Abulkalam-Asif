@@ -1,6 +1,11 @@
-<h1 align="center">Hi there👋I am Muhammad Abul Kalam Asif</h1>
 <div align="center">
-  <h3>Tech Stack</h3>
+  <h1>Hi there👋, I'm Muhammad Abul Kalam Asif</h1>
+  <h3>A Fullstack Web Developer</h3>
+</div>
+
+# Tech Stack
+
+<div align="center">
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/ReactJS-087EA4?style=for-the-badge&logo=react&logoColor=087EA4&labelColor=white" alt="website"/>
   </a>
@@ -45,9 +50,10 @@
     <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&labelColor=white" alt="website"/>
   </a>
 </div>
-<h2></h2>
+
+# Social Media
+
 <div align="center">
-  <h3>Social Media</h3>
   <a href="https://stackoverflow.com/users/13206887/abulkalam-asif">
     <img src="https://img.shields.io/badge/StackOverflow-f5832a?style=for-the-badge&logo=stackoverflow&labelColor=white" alt="website"/>
   </a>
@@ -59,5 +65,12 @@
   </a>
 </div>
 
+# Github Stats
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Abulkalam-Asif&theme=transparent&show_icons=true&border_radius=0)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abulkalam-Asif&theme=transparent&show_icons=true&border_radius=0)]
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abulkalam-Asif&theme=transparent&show_icons=true&border_radius=0)
+
+</div>
