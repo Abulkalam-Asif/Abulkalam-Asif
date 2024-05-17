@@ -27,7 +27,7 @@
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/ExpressJS-white?style=flat-square&logo=express&labelColor=black" alt="website"/>
   </a>
-  <a href="https://expressjs.com/">
+  <a href="https://dotnet.microsoft.com/">
     <img src="https://img.shields.io/badge/Dot.Net-white?style=flat-square&logo=dotnet&labelColor=black" alt="website"/>
   </a>
   <h4>Database</h4>
